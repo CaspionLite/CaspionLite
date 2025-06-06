@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNvNGN2MmQzd3pxY2R1MHgwMWhvczJoa2d2dHd5azl0Y2F1Yjc1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NWg7M1VlT101W/giphy.gif" width="200"/>
-
 # 👋 Hey, I'm CaspionLite
 
 I'm a developer who loves coding ideas into reality — from crypto tools to AI experiments and meme-worthy websites.
