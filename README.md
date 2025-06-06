@@ -29,3 +29,4 @@ I'm a developer who loves coding ideas into reality — from crypto tools to AI 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CaspionLite&layout=compact&theme=radical)
 
 ---
+![Snake animation](https://github.com/CaspionLite/snk/blob/output/github-contribution-grid-snake.svg)
